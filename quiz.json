@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of memecoins with this quiz.",
+  "questions": [
+    {
+      "question": "What is Dogecoin's symbol?",
+      "answers": ["DOGE", "DOG", "DOGG"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin has a Shiba Inu mascot?",
+      "answers": ["DOGE", "SHIB", "ELON"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is SHIB's full name?",
+      "answers": ["Shiba", "Inu", "ShibaInu"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Who created Dogecoin?",
+      "answers": ["Palmer", "Buterin", "Nakamoto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Dogecoin launched?",
+      "answers": ["2013", "2015", "2017"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin is known as 'Doge Killer'?",
+      "answers": ["SHIB", "AKITA", "HUSKY"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Elon Musk's favorite coin?",
+      "answers": ["DOGE", "BTC", "ETH"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin is inspired by a doge meme?",
+      "answers": ["DOGE", "LTC", "XRP"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin has the highest supply?",
+      "answers": ["SHIB", "DOGE", "BTC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Baby Doge's symbol?",
+      "answers": ["BABY", "BDOG", "BBY"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which coin is not a memecoin?",
+      "answers": ["BTC", "SHIB", "DOGE"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the main use of memecoins?",
+      "answers": ["Fun", "Payment", "Store"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin was tipped online frequently?",
+      "answers": ["DOGE", "ETH", "XRP"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin's mascot is a dog?",
+      "answers": ["DOGE", "ADA", "DOT"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which memecoin started as a joke?",
+      "answers": ["DOGE", "SHIB", "SAFEMOON"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Dogecoin's max supply?",
+      "answers": ["None", "21M", "100B"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin has 'Dog' in its name?",
+      "answers": ["DOGE", "ETH", "XLM"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who endorses Dogecoin?",
+      "answers": ["Musk", "Gates", "Bezos"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin's price surged in 2021?",
+      "answers": ["DOGE", "BTC", "ETH"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which coin is often used in tipping?",
+      "answers": ["DOGE", "LTC", "ADA"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
